@@ -22,4 +22,7 @@ if pin in pins.values():
     fruit = input('Enter fruit: ')
     print(find_in_file(fruit))
 else:
-    print
+    print('Incorrect pin!')
+    print('This info can be accessed only by: ')
+    for key in pins.keys():
+        print(key)
