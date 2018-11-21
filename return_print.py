@@ -2,8 +2,8 @@ def returning():
     return 10
 
 
-def printing():
-    return 10
+def printing(x):
+    print x
 
 
 returning()
