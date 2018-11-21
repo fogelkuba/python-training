@@ -1,3 +1,11 @@
 myfile = open('sample.txt')
-content = read(myfile)
+print(type(myfile))
+content = myfile.read()
+
+print(dir(myfile))
+
+print(myfile.__sizeof__())
+
 print(content)
+print(type(content))
+myfile.close()
