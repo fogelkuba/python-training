@@ -1,5 +1,5 @@
-numbers = [1, 2 ,3]
-file = open('openLoop.txt', 'w')
+numbers = [1, 2, 3]
+mfile = open('openLoop.txt', 'w')
 for n in numbers:
-    file.write(str(n) + '\n')
-file.close()
+    mfile.write(str(n) + '\n')
+mfile.close()
