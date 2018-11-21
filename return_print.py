@@ -3,9 +3,9 @@ def returning():
 
 
 def printing(x):
-    print x
+    print(x)
 
 
 returning()
 
-printing()
+printing(10)
