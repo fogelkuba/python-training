@@ -1,0 +1,5 @@
+
+C:10 F:50.0
+C:-20 F:-4.0
+C:-289 F:That temperature makes no sense!
+C:100 F:212.0
