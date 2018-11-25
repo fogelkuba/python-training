@@ -1,8 +1,13 @@
 import datetime, os
-print(str(datetime.datetime.now().strftime("%y-%m-%d-%H-%M")))
 
+def mergeFiles(path = './filesDir/'):
+    date = str(datetime.datetime.now().strftime("%Y-%M-%d-%H-%M-%s"))
+    print(date)
 
-def mergeFiles(path = './filesDir'):
+    file = open(path + date + ".txt", 'a')
 
     for filename in os.listdir(path):
         print(filename)
+
+
+mergeFiles()
