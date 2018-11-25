@@ -1,13 +1,17 @@
 import datetime, os
 
-def mergeFiles(path = './filesDir/'):
+def mergeFiles(path = './filesDir/', baseName = 'file'):
     date = str(datetime.datetime.now().strftime("%Y-%M-%d-%H-%M-%s"))
     print(date)
 
-    file = open(path + date + ".txt", 'a')
+    mergedFile = open(path + date + ".txt", 'a')
 
-    for filename in os.listdir(path):
-        print(filename)
+    for fileName in os.listdir(path):
+        if baseName in fileName:
+            print('Processing:', fileName)
+            content = open(path + fileName).read()
+            mergedFile.write(content + '\n')
+    mergedFile.close()
 
 
 mergeFiles()
