@@ -14,3 +14,6 @@ for t in temperatures:
     mytemps.write('\n' + 'C:' + str(t) + ' F:' + str(res))
     mytemps.close()
     print(t, res)
+
+
+    
