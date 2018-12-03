@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/temperatures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="66">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -174,12 +174,12 @@
       <workItem from="1542659215606" duration="10834000" />
       <workItem from="1543067889710" duration="88000" />
       <workItem from="1543068343269" duration="5995000" />
-      <workItem from="1543267597357" duration="982000" />
+      <workItem from="1543267597357" duration="1151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17899000" />
+    <option name="totallyTimeSpent" value="18068000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -395,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/temperatures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="66">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>

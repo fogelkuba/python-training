@@ -1,7 +1,7 @@
 temperatures = [10, -20, -289, 100]
 
 def c_to_f(c):
-    if  c< -273.15:
+    if c < -273.15:
         return 'That temperature makes no sense!'
     else:
         f = c * 9/5 + 32
@@ -16,4 +16,3 @@ for t in temperatures:
     print(t, res)
 
 
-    
