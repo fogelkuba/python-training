@@ -7,7 +7,6 @@ def c_to_f(c):
         f = c * 9/5 + 32
         return f
 
-
 for t in temperatures:
     res = c_to_f(t)
     mytemps = open('temps.txt', 'a')
