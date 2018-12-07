@@ -13,5 +13,4 @@ def mergeFiles(path = './filesDir/', baseName = 'file'):
             mergedFile.write(content + '\n')
     mergedFile.close()
 
-
 mergeFiles()
