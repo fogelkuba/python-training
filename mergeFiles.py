@@ -1,7 +1,7 @@
 import datetime, os
 
 def mergeFiles(path = './filesDir/', baseName = 'file'):
-    date = str(datetime.datetime.now().strftime("%Y-%M-%d-%H-%M-%s"))
+    date = str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%s"))
     print(date)
 
     mergedFile = open(path + date + ".txt", 'a')

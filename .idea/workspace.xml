@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d621bcf-848f-45ca-a386-47a9559f492b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mergeFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/mergeFiles.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mergeFiles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="66">
+              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -177,12 +177,12 @@
       <workItem from="1543068343269" duration="5995000" />
       <workItem from="1543267597357" duration="1269000" />
       <workItem from="1544034143914" duration="401000" />
-      <workItem from="1544218311967" duration="113000" />
+      <workItem from="1544218311967" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18700000" />
+    <option name="totallyTimeSpent" value="18797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,7 +197,7 @@
     <frame x="-218" y="-1035" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976599" visible="true" weight="0.094017096" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976599" visible="true" weight="0.13980465" />
       <window_info id="Structure" order="1" sideWeight="0.5023401" side_tool="true" weight="0.15628816" />
       <window_info id="Favorites" order="2" sideWeight="0.5005348" side_tool="true" weight="0.20695971" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -363,8 +363,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mergeFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="66">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
         </state>
       </provider>
     </entry>
