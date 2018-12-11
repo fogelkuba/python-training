@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d621bcf-848f-45ca-a386-47a9559f492b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dictionary/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary/dictionaty.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionary/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="380">
+              <caret column="4912519" lean-forward="true" selection-start-column="4912519" selection-end-column="4912519" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dictionary/dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -123,6 +134,7 @@
         <option value="$PROJECT_DIR$/temperatures.py" />
         <option value="$PROJECT_DIR$/mergeFiles.py" />
         <option value="$PROJECT_DIR$/errors.py" />
+        <option value="$PROJECT_DIR$/dictionary/dictionaty.py" />
       </list>
     </option>
   </component>
@@ -199,12 +211,12 @@
       <workItem from="1543267597357" duration="1269000" />
       <workItem from="1544034143914" duration="401000" />
       <workItem from="1544218311967" duration="724000" />
-      <workItem from="1544557276740" duration="961000" />
+      <workItem from="1544557276740" duration="1475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20272000" />
+    <option name="totallyTimeSpent" value="20786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,8 +446,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dictionary/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="380">
+          <caret column="4912519" lean-forward="true" selection-start-column="4912519" selection-end-column="4912519" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
