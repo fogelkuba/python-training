@@ -6,4 +6,4 @@ def divide(a, b):
 
 
 print(divide(1,0))
-print('end')
+# print('end')
