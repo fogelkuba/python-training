@@ -1,7 +1,7 @@
 def divide(a, b):
     try:
         return a / b
-    except:
+    except ZeroDivisionError:
         return 'Nie ma takiego dzielenia !1'
 
 
