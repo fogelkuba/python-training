@@ -20,3 +20,8 @@ def translate(w):
         return "The word doesn't exist. Please double check."
 
 word = input("Enter word: ")
+
+output = translate(word)
+
+for item in output:
+    print(item)
