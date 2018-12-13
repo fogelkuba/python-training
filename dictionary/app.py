@@ -32,3 +32,6 @@ if type(output) == list:
 else:
     print(output)
 
+# pip install pandas
+# pip install ipython
+# pip install xlrd
