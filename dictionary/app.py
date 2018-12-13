@@ -34,4 +34,5 @@ else:
 
 # pip install pandas
 # pip install ipython
+# pip install jupyter
 # pip install xlrd
