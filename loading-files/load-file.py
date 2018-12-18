@@ -9,12 +9,18 @@ print(csv)
 
 
 # print(csv.loc["735 Dolores St":"551 Alvarado St":"State"])
-print(csv.loc["551 Alvarado St":"ID"])
+# print(csv.loc["551 Alvarado St":"ID"])
 
 
 # list = list(csv.loc[:,'City'])
 # print(list)
 
+
+# print(csv.iloc[1:3, 1:3])
+# print(csv.iloc[1, 2:8])
+
+
+print(csv.ix[3, 'Name'])
 
 # print('================================')
 #
