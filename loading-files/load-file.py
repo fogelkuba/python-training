@@ -20,7 +20,9 @@ print(csv)
 # print(csv.iloc[1, 2:8])
 
 
-print(csv.ix[3, 'Name'])
+# print(csv.ix[3, 'Name'])
+
+print(csv.T)
 
 # print('================================')
 #
