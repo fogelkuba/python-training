@@ -1,6 +1,6 @@
-import numpy as np
+import numpy
 
-n = np.arange(27)
+n = numpy.arange(27)
 n.reshape(3, 9)
 
 print(n)
