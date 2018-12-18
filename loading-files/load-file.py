@@ -7,7 +7,10 @@ print('CSV FILE: ')
 print(csv.shape)
 print(csv)
 
-print(csv.loc["735 Dolores St":"332 Hill St"])
+# print(csv.loc["735 Dolores St":"551 Alvarado St":"ID"])
+print(csv.loc["551 Alvarado St":"ID"])
+
+print(list(csv.loc[:,'ID']))
 
 # print('================================')
 #

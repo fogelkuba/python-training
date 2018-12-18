@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loading-files/load-file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="226">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -249,7 +249,7 @@
       <workItem from="1543267597357" duration="1269000" />
       <workItem from="1544034143914" duration="401000" />
       <workItem from="1544218311967" duration="724000" />
-      <workItem from="1544557276740" duration="13816000" />
+      <workItem from="1544557276740" duration="14047000" />
     </task>
     <task id="LOCAL-00001" summary="docker enabled">
       <created>1544986458278</created>
@@ -262,7 +262,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33127000" />
+    <option name="totallyTimeSpent" value="33358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,9 +277,9 @@
     <frame x="0" y="23" width="1680" height="514" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4916318" visible="true" weight="0.14102565" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.489842" visible="true" weight="0.14102565" />
       <window_info id="Structure" order="1" sideWeight="0.5023401" side_tool="true" weight="0.15628816" />
-      <window_info id="Favorites" order="2" sideWeight="0.5083682" side_tool="true" weight="0.14102565" />
+      <window_info id="Favorites" order="2" sideWeight="0.510158" side_tool="true" weight="0.14102565" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -527,8 +527,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loading-files/load-file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="226">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
