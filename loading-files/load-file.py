@@ -1,7 +1,10 @@
 import pandas
 
-csv = pandas.read_csv('./supermarkets.csv', header=None)
+# csv = pandas.read_csv('./supermarkets.csv', header=None)
+csv = pandas.read_csv('./supermarkets.csv')
+csv.set_index('ID')
 print('CSV FILE: ')
+print(csv.shape)
 print(csv)
 
 # print('================================')
@@ -16,5 +19,5 @@ print(csv)
 #
 # print('================================')
 #
-# xls = pandas.read_excel('./supermarkets.xlsx')
+# xls = pandas.read_excel('./supermarkets.xlsx', sheetname=0)
 # print(xls)
