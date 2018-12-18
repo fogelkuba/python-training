@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d621bcf-848f-45ca-a386-47a9559f492b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/loading-files/load-file.py" beforeDir="false" afterPath="$PROJECT_DIR$/loading-files/load-file.py" afterDir="false" />
-    </list>
+    <list default="true" id="9d621bcf-848f-45ca-a386-47a9559f492b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,11 +164,6 @@
               <item name="python-training" type="462c0819:PsiDirectoryNode" />
               <item name="dictionary" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-training" type="462c0819:PsiDirectoryNode" />
-              <item name="loading-files" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -249,7 +242,7 @@
       <workItem from="1543267597357" duration="1269000" />
       <workItem from="1544034143914" duration="401000" />
       <workItem from="1544218311967" duration="724000" />
-      <workItem from="1544557276740" duration="15593000" />
+      <workItem from="1544557276740" duration="15745000" />
     </task>
     <task id="LOCAL-00001" summary="docker enabled">
       <created>1544986458278</created>
@@ -262,7 +255,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34904000" />
+    <option name="totallyTimeSpent" value="35056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,7 +269,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49133858" visible="true" weight="0.14102565" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49133858" visible="true" weight="0.14102565" />
       <window_info id="Structure" order="1" sideWeight="0.5023401" side_tool="true" weight="0.15628816" />
       <window_info id="Favorites" order="2" sideWeight="0.5086614" side_tool="true" weight="0.14102565" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,7 +283,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294979" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.47907948" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.47907948" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3294979" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
