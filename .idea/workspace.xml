@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d621bcf-848f-45ca-a386-47a9559f492b" name="Default Changelist" comment="" />
+    <list default="true" id="9d621bcf-848f-45ca-a386-47a9559f492b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/loading-files/load-file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lading-files/supermarkets-commas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/loading-files/supermarkets-commas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lading-files/supermarkets-semi-colons.txt" beforeDir="false" afterPath="$PROJECT_DIR$/loading-files/supermarkets-semi-colons.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lading-files/supermarkets.csv" beforeDir="false" afterPath="$PROJECT_DIR$/loading-files/supermarkets.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lading-files/supermarkets.json" beforeDir="false" afterPath="$PROJECT_DIR$/loading-files/supermarkets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lading-files/supermarkets.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/loading-files/supermarkets.xlsx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mergeFiles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/errors.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionary/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -48,6 +47,24 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loading-files/supermarkets.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/loading-files/load-file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -136,13 +153,15 @@
         <option value="$PROJECT_DIR$/dictionary/dictionaty.py" />
         <option value="$PROJECT_DIR$/dictionary/app.py" />
         <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/lading-files/load-file.py" />
+        <option value="$PROJECT_DIR$/loading-files/load-file.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="height" value="514" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -162,6 +181,11 @@
               <item name="python-training" type="462c0819:PsiDirectoryNode" />
               <item name="dictionary" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-training" type="462c0819:PsiDirectoryNode" />
+              <item name="loading-files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -177,6 +201,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lading-files" />
       <recent name="$PROJECT_DIR$/dictionary" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -239,7 +264,7 @@
       <workItem from="1543267597357" duration="1269000" />
       <workItem from="1544034143914" duration="401000" />
       <workItem from="1544218311967" duration="724000" />
-      <workItem from="1544557276740" duration="11697000" />
+      <workItem from="1544557276740" duration="12646000" />
     </task>
     <task id="LOCAL-00001" summary="docker enabled">
       <created>1544986458278</created>
@@ -252,7 +277,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31008000" />
+    <option name="totallyTimeSpent" value="31957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +289,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="514" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4916318" visible="true" weight="0.14102565" />
       <window_info id="Structure" order="1" sideWeight="0.5023401" side_tool="true" weight="0.15628816" />
@@ -504,6 +530,20 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading-files/supermarkets.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading-files/load-file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
