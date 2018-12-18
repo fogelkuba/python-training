@@ -2,10 +2,12 @@ import pandas
 
 # csv = pandas.read_csv('./supermarkets.csv', header=None)
 csv = pandas.read_csv('./supermarkets.csv')
-csv.set_index('ID')
+csv = csv.set_index('ID')
 print('CSV FILE: ')
 print(csv.shape)
 print(csv)
+
+print(csv.loc["735 Dolores St":"332 Hill St"])
 
 # print('================================')
 #
